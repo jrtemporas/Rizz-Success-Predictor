@@ -1,0 +1,792 @@
+text,label
+"No way, I’m booked today",0
+"Yes please, let’s roll! You’re awesome",1
+"Can’t, I’ve got stuff to do",0
+I don't think so.,0
+"Pass, I’m not feeling it. I’ve got a ton of schoolwork, and some errands to run too. I’m not up for going out since I just want to rest. Maybe we can try again later.",0
+"Haha uy, kinilig ako! Let’s go",1
+"Game ako, tara na, excited na ako sa pupuntahan natin, let's go have fun!",1
+"Tara, go na tayo!",1
+"Sige na, kain tayo mamaya ha",1
+"Putangina di ko feel, pass muna",0
+"Sure, I’m game to go out! I’ve been stuck inside too long, and hanging out with you sounds perfect. Where are we headed? I’m pumped to make it a fun day, so let’s get the details sorted soon!",1
+"Haha ulol ka ba, di ko trip yan",0
+"Yes, let’s go out! You’re fun",1
+"I'm so excited for this, let's make some memories!",1
+"Nah, I’m good for now",0
+"Not into it, sorry dude",0
+Landi mo ah 😏 pero I like it haha,1
+"Game ako, tara na, excited na ako sa pupuntahan natin, let's go have fun together, I'm really looking forward to it!",1
+"Great idea, let's definitely do that, I'm excited to go out!",1
+"Heck yeah, I’m down! You asking me out is awesome, and I’ve been craving some fun. Where should we meet? I’m free this week, so let’s make it a great day together!",1
+"Pass, I’m not in the mood",0
+"I'm not available, I'm very busy right now, please stop asking me out.",0
+"Haha, cute!",1
+"Sure thing, let’s go! You’re fun",1
+San tayo pupunta?,1
+"Uy sige gago, sama ako sa gala mo!",1
+"Gago friends lang tayo ha, wag assuming",0
+"Haha sige, san tayo punta?",1
+"Nah, wag muna ngayon. Super busy kasi ako sa work lately, tapos may mga lakad pa ko with friends this week. Di rin ako feel mag-out kasi gusto ko lang mag-relax sa bahay. Next time.",0
+"Yes please, I’m in! What’s the deal?",1
+"Huwag mo akong kausapin, please leave me alone, I'm not interested in you, please stop.",1
+"Saan tayo pupunta, excited na ako sa place!",1
+"Lol hell yeah, I’m down! You prick",1
+"Lol okay, I’m in! What’s the plan?",1
+"Yes, I’m excited! Pick a spot",1
+"No thanks, I’ll sit this one out",0
+"No thanks, I’m not up for it. School’s been draining, and I’ve got plans with friends too. I’d rather just relax at home since I’m worn out. Let’s try later when I’m free.",0
+"Haha sure, let’s go! You fucking idiot",1
+"I'm ready to go, let's have a great time!",1
+"Heck yes, I’m up! Where we going?",1
+Let's go!,1
+"Fuck yes, I’m in! You’re a cute moron",1
+"Okay dickhead, I’m in! Where we going?",1
+"Sorry, I can’t right now. I’ve got a lot of work to finish, and there’s some stuff at home I need to take care of too. I’m not really feeling up for going out since I’m tired. Let’s wait until things settle down.",0
+Uy okay sakin yan! Sama ako,1
+"Sure thing, let’s do it! You’re fun",1
+"I'm not interested in you, please stop asking me out, I'm not interested in you romantically, please stop texting me.",1
+"Oo naman, gusto ko sumama, excited na excited na ako!",1
+"I'm looking forward to seeing you, let's go out and have a great time together!",1
+"No way, I’m too busy this week",0
+"You're creeping me out, please stop with the advances, I'm not interested.",0
+"I'm so excited to see you, let's go on that date tonight!",1
+"Okay, fine, let's go, I guess I'll give it a try, but I'm not sure.",1
+"I'm not going, don't ask me again, I'm not interested in dating you, please stop texting me, I'm not interested in you.",0
+Lol okay sakin yan! Tara na,1
+What's up?,1
+I'd love to go!,1
+"Di ko feel eh, sorry",0
+Haha okay lang sakin! Tara!,1
+"Sige, sabihan mo lang ako kung kelan",1
+"Sorry, not really feeling it today",0
+"Can’t make it, maybe another time",0
+"Can’t, I’ve got other things going",0
+"Di ko feel eh, sorry ha",0
+"Uy tangina ang cute mo! Tara, let’s go",1
+"Haha busy ako eh, next time na lang",0
+"Nah, I’ll pass this round",0
+"Sige, sama ako, excited na excited na ako!",1
+"Asshole, not my type",0
+"Haha busy ako, next time na",0
+"I'm really looking forward to it, let's make it happen, I'm excited to go out with you tonight!",1
+"Let's hang out, then, I'm free this weekend, let's do something fun together, I'm excited!",1
+"Haha totally, I’m down! Where to?",1
+"I'm not interested in that at all, please stop asking me.",0
+"Huwag mo akong kausapin, please leave me alone, I'm not interested.",0
+"I'm so excited for this, let's make some memories together, I'm ready!",1
+"No way, I'm not going on a date with you, please stop asking me.",0
+"Di ko type yan, sorry",0
+"You're annoying me, please stop texting me, I'm not interested in you, please stop bothering me.",1
+"Sounds good to me, I'm excited to go on a date with you, let's plan it!",1
+Lol ang sweet mo! Tara na,1
+"Hell yeah, let’s go out! You’re a cute bastard",1
+"Not into it, sorry bro",0
+"Let's make this happen, I'm ready for it!",1
+"Sure na sure ako, let’s go out! Ang saya kasi ng idea mo, and I miss hanging out na rin. San tayo punta? I’m free this weekend, so let’s make it a good time ha, ikaw na bahala sa details!",1
+"Chz, di ko feel",0
+"Uy yes, let’s do it na! Ang saya ng plano mo, and I’ve been so bored lately. San tayo pupunta? I’m free this weekend, so let’s make it a chill day ha kasi I can’t wait!",1
+"Shit no, I’m out",0
+K,0
+"Nah, I’ll sit this one out",0
+"Lol sige, tara kain tayo!",1
+"Pass, I’m not in the mood. School’s been taking up all my energy, and I’ve got plans with friends already. I’d rather just stay home and rest since I’m feeling drained. Maybe another day when I’m up for it.",0
+"Haha sige, kain tayo sa labas!",1
+"Sige, sama ako, excited na excited na ako sa lakad natin!",1
+"Sige, sama ako, excited na excited na ako sa lakad natin, let's go and have fun!",1
+"Anong oras tayo aalis, excited na ako sa outing natin, let's go and have a great time, I'm really excited!",1
+"Sure, I’d love that! Where we at?",1
+"No way, I'm not going.",0
+K,0
+"May gagawin pa ako, ttyl",0
+"Nah, pass muna ako. Ang dami ko kasi ginagawa sa school lately, tapos may errands pa ko this week. Di rin ako in the mood kasi pagod na ko lately. Maybe another time na lang.",0
+"Okay, let's do this, I'm ready to go on that adventure with you, let's plan it!",1
+"Okay, fine, let's go then.",1
+"Can’t, I’ve got other stuff lined up",0
+"Okay, where?",1
+"Okay, fine, let's go, I guess I'll give it a try.",1
+"Pass for now, I’m good",0
+"Lol sure, I’m in! Your message is so cute, and I’ve been bored out of my mind. Where should we go? I can’t wait to hang out, so let’s lock it in and enjoy ourselves!",1
+"Damn, you got me! Let’s go, idiot",1
+"Nope, I’m good just chilling",0
+Haha okay sakin yan! San tayo?,1
+"Yo shit, let’s go out! You’re a dope",1
+"Hala ang saya! Tara na gago, kain tayo sa labas",1
+"Di pwede, may iba pa ko gagawin",0
+"I'm free this weekend, let's go out and have some fun together, I'm really looking forward to it, let's plan it!",1
+"Di ko type yan, next time na",0
+"No thanks, I’ve got too much going on. Work’s been crazy busy, and I’ve got plans with friends already lined up. I’m not really up for going out anyway since I just want to crash at home. Maybe another time when I’m less swamped.",0
+"Haha totally, let’s hang out! You’re cool",1
+"Lol heck yeah, I’m in! Ang cute mo talaga mag-ask, kaya hindi ko matanggihan. Tara, kain tayo sa labas or something, san mo gusto? I’m excited na to chill with you!",1
+"No way, I’m booked this time",0
+"No thanks, really, I'm not interested in dating you.",0
+"Busy ako ngayon, wag muna",0
+Haha weird ka 😅,0
+"Yes, let’s do it! You’re the best",1
+"Di ko trip mag-out ngayon, sorry. Ang dami ko kasi ginagawa sa school, tapos may errands pa ko this weekend. Hindi rin ako in the mood kasi pagod na ko lately. Pass muna ako.",0
+Huwag na natin ituloy.,0
+"Let's make this happen, I'm ready to go on that date with you tonight!",1
+"You're creeping me out, please stop with the advances.",0
+Lol okay sakin yan! Let’s go out,1
+"Nah, wag muna ngayon. Ang dami ko kasi ginagawa sa school, tapos may errands pa ko this weekend. Di rin ako feel mag-out kasi pagod na ko lately. Pass muna, baka next week.",0
+"Uy sige, sama ako sayo mamaya",1
+"Yes, please, let's go, I'm ready for a fun evening!",1
+"I'm not interested, please stop asking me out, I'm not interested.",0
+"Di ko type yan, sorry ha",0
+Haha di ko type yan,0
+"Leave me alone, I don't want to talk to you anymore, please stop.",0
+"Yes, I'd love to go out with you sometime!",1
+"Pass muna, may gagawin pa ko",0
+"Di ko trip yun, sorry",0
+Haha okay na sakin! Tara na uy,1
+"Nope, I can’t today. I’ve got work to finish, and some errands this weekend too. I’m not feeling up for going out since I just want to unwind. Let’s try again later.",0
+"No fucking way, you’re weird",0
+"Layuan mo ako, please, I'm not interested in you romantically.",0
+"You're making me uncomfortable, please stop with the advances, I'm not interested.",1
+"Hindi ako sasama sayo, please stop asking me out.",0
+"Sige, sama ako sa gala mo mamaya",1
+"Not feeling it, maybe next time",0
+"Haha wag na, busy ako",0
+Wanna call later? Miss ko na boses mo e,1
+"Yes, tara na! I’ve been wanting to go out kasi boring na sa bahay. Sama ako sayo, san mo gusto punta? I’m excited na talaga, let’s plan it na para sure ha kasi deserve natin!",1
+Count me in! What’s the plan?,1
+"Sure, I’m game! What’s the plan?",1
+"Not my thing, maybe another time",0
+"Sige na, date tayo after work!",1
+"Lol heck yeah, sama ako! Ang fun mo talaga kasama, kaya hindi ko matanggihan. San mo gusto mag-chill? I can’t wait na talaga, let’s make it a good one ha kasi I trust your vibe!",1
+"Heck yeah, let’s hang! Your choice",1
+"Yes, let’s hang out! You’re so fun, and I’ve been wanting to get out lately. Where are we meeting? I’m excited to spend time with you, so let’s make it a chill, awesome day!",1
+"Try mo na lang iba, lol",0
+"Can’t, too busy today",0
+Not really feeling it tonight.,0
+"Get lost, please, I'm not interested in you at all.",0
+Crush mo ba ako? Kasi ako parang ganun na 😳,1
+Lol I’m so in! What’s the plan?,1
+"Okay, let's do this, I'm ready for an adventure!",1
+"Lol grabe ka talaga! Cge, sama ako",1
+"Yes please, I’m down! Where to?",1
+"Haha sige, game na game ako! Your message made me smile kasi ang cute mo mag-ask. Tara, kain tayo sa labas or something, ikaw bahala sa spot. I’m excited na talaga, let’s do this soon!",1
+"Yes, tara na! I’ve been so bored lately, kaya perfect timing yung message mo. San tayo pupunta? I’m excited na talaga, ikaw bahala sa plano ha kasi I trust you!",1
+Ayoko nga talaga.,0
+"Saan tayo pupunta, excited na excited na ako sa place natin!",1
+"Uy sige, kain tayo sa labas ha",1
+"Sure, let’s hit it! You crazy dick",1
+"Okay na sakin yan, tara!",1
+"I'm free this weekend, let's go out and have some fun together, I'm excited!",1
+"Sure thing, let’s roll! You’re cool",1
+"Pass, I’m swamped",0
+"Busy ako eh, maybe next time?",0
+You're creeping me out a little.,0
+"Lol heck yeah, sama ako! Ang fun mo kasi kasama, kaya excited na ko agad. San mo gusto mag-hang out? I can’t wait na talaga, let’s plan it na para sure!",1
+"Shit, just friends dude",0
+"Nah, I’ll pass this time. I’ve been swamped with schoolwork, and I’ve got family plans this weekend too. I’m not in the mood to go out since I just want to relax. Maybe we can try again later.",0
+"Hell no, too much going on",0
+"Di ko trip yun, sorry",0
+"Sure, I’m game! Where we at?",1
+"Oo naman, gusto ko talaga sumama!",1
+"I'd rather not, thank you.",0
+"Busy ako eh, wag na muna",0
+"Lol yes, I’m so in! You’re so cool to ask, and I’ve been wanting to get out. Where should we head to? I can’t wait to chill with you, so let’s make it happen soon!",1
+Hmmm 🤔,0
+"Lol yes, I’m totally in! You’re so fun to be around, and I’ve been bored out of my mind lately. Where should we head to? I can’t wait to chill with you, so let’s figure it out and make it a good day!",1
+,0
+"I'm not going, don't ask me again, I'm not interested in dating you, please stop.",1
+"Nah, pass muna ako. Ang dami ko kasi ginagawa sa school lately, tapos may errands pa ko this week. Di rin ako in the mood kasi pagod na pagod na ko. Maybe another time.",0
+"Yes please, let’s go out! Your call",1
+"Sounds good to me, I'm really excited!",1
+"No way, I’m too busy",0
+Ano gagawin natin?,1
+"Lol sige, sama ako sayo! Ang saya kasi ng plano mo, and I’ve been wanting to go out na rin. San mo gusto mag-chill? I’m so ready for this, let’s make it fun ha kasi deserve natin!",1
+"Sorry, not really my style",0
+Lol ang kulit mo talaga! Tara na,1
+"Heck yeah, I’m there! Your pick",1
+Lol I’m so down! You’re the best,1
+"I'm not interested, please stop asking me out, I'm not interested in you romantically.",1
+"Let's go, then, I'm ready to have some fun with you tonight!",1
+"Hindi ako sasama sayo, please stop asking me out, I'm not interested in you romantically, please stop texting.",1
+"I'm not going, don't ask me again, I'm not interested in dating you.",0
+"You're making me uncomfortable, please stop with the advances.",0
+"Lol totally, let’s go! You’re awesome",1
+"I don't want to go, please stop asking me out.",0
+Haha di ko trip yan,0
+"Sige na nga, san mo gusto puntahan?",1
+I was waiting for you to ask 🥰,1
+"I'm not interested in that at all, please stop asking me out, I'm not interested.",0
+"I'm not interested in that at all, please stop asking me out, I'm not interested in you romantically, please stop texting.",1
+"Ayoko sayo, wag mo na akong kausapin, please just leave me alone, I'm not interested in you, please stop texting me.",1
+"Okay, where to?",1
+"Haha putangina corny mo, pass",0
+"Haha nice try, pero di ko trip",0
+Ewan ko sayo 😐,0
+"Nope, got other plans",0
+"Hala sige na nga! Tara na uy, kain tayo sa labas",1
+"Sorry, I can’t make it right now. I’ve got a bunch of deadlines at school, and some family stuff to deal with too. I’m not really up for going out since I’m tired. Maybe another time when I’m less busy.",0
+Okay lang sakin yan! Let’s go ha,1
+"Sige na, san mo gusto pumunta?",1
+"Sorry, not right now. School has been overwhelming, and I’ve got plans already set. I’d rather just stay home since I’m tired. Maybe another day when I’m up for it.",0
+"Alright, I'm in for sure.",1
+Not today.,0
+"Lol okay, I’m in! You’re too cute",1
+"Sure, let’s do it! I love your vibe, and I’ve been bored lately. Where are we going? I’m excited to hang out, so let’s plan it out and make it a chill, fun day!",1
+"Sorry, I’ll pass this time",0
+"Uy ang sweet! Cge, date tayo",1
+"Haha sige, san mo gusto?",1
+"Di ko feel yan, pass",0
+"Haha sige na nga, san mo gusto?",1
+"Let's go, then, I'm ready to have some fun with you tonight, I'm really looking forward to it!",1
+"Lol fuck yeah, I’m in! You’re a wild dick",1
+"Yes, I’m so in! Where’s the meetup?",1
+"Lol totally, let’s hang! You’re great",1
+"Yes, please, I'd love to go!",1
+"Di ako sure, next time na lang",0
+"No thanks ha, busy ako ngayon. May mga tasks kasi ako sa school, tapos may family dinner pa kami this weekend. Di rin ako feel mag-out kasi pagod na ko. Pass muna ako.",0
+"Di ko type yan, bobo ka ba?",0
+"Asshole, your pickup line sucks",0
+"Di pwede ngayon, busy ako",0
+"Busy ako ulol, pass muna",0
+"Let's go, then, I'm ready to have some fun!",1
+Seen,0
+"Friends lang talaga, uy",0
+Sounds fun!,1
+"No thanks, really, I'm not interested in dating you, please stop asking.",0
+"Lol yes, let’s go! You’re great",1
+"Yes, I’d love to go out with you! Your invite is perfect since I’ve been stuck inside too much. Where are we meeting? I’m excited to hang out, so let’s plan it and make it a fun time soon!",1
+"Nope, not my thing right now",0
+"Lol ang sweet mo! Okay, tara na",1
+"Fuck no, I’ve got stuff to do",0
+"Gago pass muna, may iba pa ko plano",0
+You're annoying me a bit.,0
+"Sorry ha, di ko trip yan. Super busy kasi ako sa work, tapos may errands pa ko mamaya. Di rin ako feel mag-out kasi pagod na pagod na ko lately. Pass muna, baka next time.",0
+"Sorry, I can’t right now. I’ve got deadlines to meet at school, and there’s some family stuff I need to deal with this week. I’m not in the mood to hang out either since I’m pretty worn out. Let’s try again later when I’m free.",0
+"Absolutely not, leave me alone, stop with the flirting, I'm not interested.",0
+"I'm down for that, let's do it!",1
+"Can’t today, maybe next time",0
+"Pass muna, may gagawin pa ko",0
+"Nah, I’ll skip this one",0
+"Yes, I’d love to go! Ang saya ng idea mo, and I’ve been wanting to chill na rin. San tayo pupunta? I’m free this week, so let’s make it a good time ha kasi deserve natin!",1
+"Sure na, tara na nga! I’ve been so bored sa bahay, kaya perfect yung invite mo. San mo gusto mag-hang out? I’m excited na talaga, let’s plan it na para sure ha!",1
+"Di pwede, busy ako",0
+"Cool, I'll see you then!",1
+"Pass muna, di pwede ngayon. May mga deadlines ako sa school tapos may family stuff pa ko this weekend. Hindi rin ako feel mag-out kasi gusto ko lang matulog lately. Maybe later.",0
+"Yes, let’s go out na! Ang fun mo kasama, and I’ve been wanting to hang out na rin. San tayo punta? I’m free this week, so let’s make it a good time ha kasi deserve natin!",1
+"Sige na nga, let’s try it out!",1
+"Di pwede ngayon, sorry. Super busy kasi ako sa work, tapos may mga lakad pa ko with friends this weekend. Hindi rin ako feel mag-out kasi gusto ko lang mag-relax sa bahay. Next time.",0
+"Grabe ka magpa-cute! Okay, sama ako",1
+HAHA ano daw? 😅,0
+Pwede naman siguro.,1
+"Sorry, not really my thing",0
+"Uy sige, san tayo pupunta?",1
+"Di ko trip yun, sorry. I’ve got so much on my plate na with work and friends asking me out din. Hindi rin ako in the mood to go out kasi gusto ko lang mag-stay home this week. Maybe another time na lang.",0
+"I'm ready to go, let's have a fantastic time together!",1
+"Sure na, tara na nga! I’ve been stuck sa bahay lately, kaya perfect yung invite mo. San mo gusto mag-hang out? I’m excited na talaga, let’s plan it na para sure ha kasi I like you!",1
+"Sorry, not feeling that vibe",0
+Okay lang sakin yan! Date tayo?,1
+Maybe next time.,0
+"Pass for now, sorry. I’ve got deadlines at work, and some family stuff to deal with. I’m not in the mood to go out since I’m pretty tired. Maybe we can catch up another time.",0
+"Yeah, sure!",1
+"Lol okay, let’s do it! You’re a jerk",1
+"Heck yes, I’m game! Pick a spot",1
+"No thanks, I’m too busy. Work’s been crazy, and I’ve got family stuff this weekend. I’m not in the mood to go out since I’m drained. Let’s wait until I’m freer.",0
+Aww sweet mo naman 😍,1
+"Heck yeah, I’m down to go! Your idea sounds awesome, and I’ve been itching to get out lately. Where are we going? I’m free this weekend, so let’s lock it in and make it a great time together!",1
+"Nope, got other plans",0
+Excited!,1
+"Sorry, not today. School has been crazy, and I’ve got plans with friends already set. I’d rather just stay home and unwind since I’m tired. Maybe we can try again when I’m less swamped.",0
+"You're creeping me out, please stop with the advances, I'm not interested in you romantically.",1
+"Sure, let’s make it happen! I love that you asked, and I’ve been wanting to hang out for a while. Where do you want to go? I’m so excited already, so let’s plan it out and have some fun soon!",1
+"I'm not free this weekend, I'm busy with other things, please stop asking.",0
+Kakaiba ka talaga 😂,0
+Haha I’d love to! What’s the spot?,1
+"Damn yes, I’m up! You goofy bastard",1
+"Great idea, let's definitely do that!",1
+"No thanks, I’ll skip this one",0
+Friends lang talaga kita,0
+"Sige, tara!",1
+"Lol ang cute mo! Sige, let’s go",1
+"I don't want to go, please stop asking me out, I'm not interested in you.",0
+...,0
+"Yo shit, you’re hot! Date me, dumbass",1
+"Pass muna, may gagawin pa ko",0
+"Sure, I’d love to go out! Where we headed?",1
+"Haha wag ganun, di ako interested",0
+"Ayoko nga, please just leave me alone, I'm not interested in dating you, please stop texting.",1
+"Haha sorry ha, I don’t think I can go out ngayon. Super busy kasi ako sa work and I’ve got family stuff pa to deal with this weekend. Maybe next time na lang talaga, wag muna ngayon kasi hectic talaga sched ko.",0
+"Let's hang out, then, I'm free this weekend!",1
+"Nope, not my style right now",0
+"Putangina wag ganun, di ako interested",0
+"No way, I'm not going on a date with you, please stop asking me out, I'm not interested in you.",1
+"I'm down for that, let's go and have a good time together tonight, I'm really looking forward to it!",1
+"Di ako sure, sorry",0
+"No thanks, busy ako eh. May mga deadlines kasi ako sa work lately, tapos may lakad pa ko with family this weekend. Di rin ako feel mag-out kasi gusto ko lang mag-stay home. Pass muna.",0
+"No way, I'm not going on a date with you.",0
+"Lol yes, let’s roll! You’re the best",1
+"Sounds good to me, I'm excited to go on a date with you, let's plan it, I'm really looking forward to it!",1
+Haha di ko trip yun,0
+Labo mo HAHA,0
+"Pass for now, too much to handle",0
+"Sure, why not give it a try?",1
+"Haha di ako interested, sorry",0
+"Okay, let's do this, I'm ready to go on that adventure with you!",1
+"Not into it, maybe later",0
+Haha friends lang talaga,0
+"Nah, I’m good for now",0
+"Haha yes, I’m so game! Ang cute mo talaga mag-ask, kaya hindi ko matanggihan. Tara, kain tayo sa labas or something fun, san mo gusto? Let’s make it happen soon ha!",1
+"I'm so excited for this, let's make some memories together, I'm ready to go out with you tonight!",1
+"Haha damn, I’m in! You silly fuck",1
+"No thanks, I'm good.",0
+Stop it.,0
+Sama mo ako next time ha?,1
+"Sure, I’d love to! Where we headed?",1
+"Haha sige, let’s go out!",1
+"Tara na, sobrang excited na ako sa date natin mamaya, let's have a great time!",1
+"You're annoying me, please stop texting me, I'm not interested.",0
+Let's hang out sometime!,1
+"I'm not interested in you, please stop asking me out, I'm not interested in you.",0
+"Grabe ka talaga ulol! Okay, tara na",1
+"Uy sige na ulol, san tayo punta?",1
+Excited for this!,1
+"I'm down for that, let's go and have a good time together tonight!",1
+"Not today, I’m pretty busy",0
+"Busy ako this week, pass muna",0
+"Sorry, not feeling up to it",0
+"Busy ako this week, sorry",0
+"Hindi ako sasama sayo, please stop asking me out, I'm not interested in you.",0
+"Lol ang kulit mo! Cge, tara",1
+Busy now.,0
+"I'm in, let's go, I'm ready to have a great time tonight, I'm really excited about it, let's plan it!",1
+"Pass, I’m not up for it",0
+"Oo, gusto ko sumama.",1
+"Lol grabe ka! Cge, tara na",1
+"Pass ako, may iba pa ko gagawin",0
+"Hell no, I’m too busy fucker",0
+"Sige na nga, try natin mag-date!",1
+"Di ko feel mag-out ngayon, sorry. Ang dami ko kasi ginagawa sa school, tapos may errands pa ko mamaya. Hindi rin ako in the mood kasi pagod na ko lately. Pass muna.",0
+"No, thank you, I'm not interested, please stop asking me out, I'm not interested in you romantically, please stop texting me.",1
+"Sige, san mo gusto pumunta? Gago ka pa rin",1
+"Damn right, let’s go! You crazy bastard",1
+"Sure, I’d love to join you! I’ve been stuck inside, and your invite is just what I need. Where should we go? I’m excited already, so let’s plan it and make it a chill, fun day!",1
+"Nope, I’m good staying in",0
+"Uy cge na nga, san tayo punta?",1
+"Sorry, not up for it now",0
+"Nah, I’m cool staying in",0
+Tinatamad ako eh,0
+"Sounds good to me, I'm excited to go on a date with you!",1
+"Sorry ha, di ko feel ngayon. May mga deadlines kasi ako sa work, tapos may family stuff pa ko mamaya. Hindi rin ako in the mood kasi gusto ko lang matulog lately. Pass muna ako.",0
+"Haha wag ganun, di ako interested",0
+Lakas mo sakin eh 😅,1
+"I don't want to go, sorry.",0
+"No thanks ha, di ako sigurado sa plano mo. Medyo hectic kasi sched ko ngayon with school and all, tapos may mga bagay pa ko na kailangan ayusin sa house. Pass muna, baka hindi rin ako maka-focus.",0
+"Haha corny mo, pass",0
+"Absolutely not, please leave me alone.",0
+"Sige na ulol, kain tayo sa labas after class",1
+"Haha sure, I’m in! You asking me out is so cute, and I’ve been wanting to do something fun. Where do you want to go? I’m free this week, so let’s make it happen and enjoy a chill day together!",1
+"Pass for now, got stuff going on",0
+"Oo naman, gusto ko sumama, excited na excited na ako sa lakad natin, let's go and have a great time together!",1
+"Uy kinilig ako! Cge, sama ako",1
+"Huwag mo akong kausapin, please leave me alone, I'm not interested in you.",0
+"No thanks, really, I'm not interested in dating you, please stop asking me out, I'm not interested.",1
+"Uy sige na nga, I’d love to go out with you! Kahit busy ako this week, I can make time kasi ang cute mo talaga when you asked me out. San mo gusto pumunta? I’m so excited na, let’s plan it out na para sure!",1
+"Sige na uy, tara kain tayo sa labas!",1
+"Nope, not today. I’ve got a bunch of stuff to finish for school, and I’m already booked with family this weekend. I’m not really in the mood to go out since I just want to rest. Let’s try again when my schedule clears up.",0
+"Haha gago wag na, di ko feel",0
+"Pass, sorry.",0
+"Get lost, please, I'm not interested in you at all, please stop texting me, I'm not interested in dating you.",1
+Lol okay,0
+Game!,1
+"Not into it, sorry",0
+"Haha corny mo talaga, pass",0
+"Yup, tara! G ako always for you 😚",1
+Haha friends lang tayo uy,0
+"Fuck yeah, I’m game! You dumbass",1
+"I'm not available, I'm very busy right now, please stop asking me out, I'm not interested.",1
+"No thanks, busy ako ngayon. May mga tasks kasi ako sa school lately, tapos may family dinner pa kami this week. Di rin ako feel mag-out kasi gusto ko lang mag-stay home. Pass muna.",0
+"Pass muna, busy ako",0
+Haha friends lang tayo diba?,0
+"Yes, I’m so in! What’s the spot?",1
+"Fuck off, I’m not into you",0
+Please stop texting me.,0
+"Haha hell yeah, I’m game! You’re a jerk",1
+I'm looking forward to it a lot!,1
+"Tara na, sobrang excited na ako sa date natin mamaya!",1
+,0
+"Pass for now, got too much going on",0
+Grabe ka magpa-cute! Tara na nga,1
+"Fuck off, I’m busy right now",0
+"No, thank you, I'm not interested in going.",0
+"Pass ako, di ko feel",0
+"Nah, di ko feel mag-out ngayon. Ang dami ko kasi ginagawa sa bahay, tapos may online classes pa ko na kailangan tapusin. Pass muna ako, maybe next time na lang pag hindi na ganito kabusy.",0
+"Di pwede ngayon, sorry. Super busy kasi ako sa work, tapos may mga lakad pa ko with friends lately. Hindi rin ako feel mag-out kasi gusto ko lang mag-relax sa bahay. Next time.",0
+"Yep, I’m so in! Where are we going?",1
+"You're making me uncomfortable, please stop flirting.",0
+,0
+"Haha di pwede, may iba pa ko plano",0
+"Get lost, please, I'm not interested in you at all, please stop texting.",0
+"Ayoko sayo, wag mo na akong kausapin, please just leave me alone.",0
+Lol ang cute mo mag-ask! Cge na,1
+"Haha uy, kinilig ako! Tara na",1
+"No thanks, really appreciate it though.",0
+"No way, too much going on",0
+"Yes, I’d love to hang out! I’ve been so bored, and your message totally brightened my mood. Where should we meet? I’m excited to spend time with you, so let’s make it a relaxed, fun outing soon!",1
+"Di ko trip yan, ha",0
+"Lol heck yeah, I’m in! Ang cute mo talaga mag-ask, kaya hindi ko matanggihan. Tara, kain tayo sa labas or something fun, san mo gusto? I’m excited na to hang out with you!",1
+"Busy ako ngayon, sorry",0
+"Lol yes, let’s do it! You’re so fun",1
+"Fuck you, not interested",0
+"Lol bobo ka pa cute! Okay, tara",1
+"Heck yeah, I’d love that! Your choice",1
+"Haha busy ako eh, putangina wag muna",0
+"Leave me alone, I don't want to talk to you anymore, please stop texting me, I'm not interested.",1
+"Sige na tanga, kain tayo sa labas ha",1
+Uy okay sakin yan! Sama ako,1
+"Haha grabe ka 😂 pero sige, let's hang out soon!",1
+"Sure, I’d absolutely love to go out with you! I’ve been feeling a little cooped up lately, so your invite is perfect timing. Where do you want to go? I’m already excited to hang out and make it a fun day, so let’s plan it soon!",1
+"Sige, game ako sayo mamaya!",1
+"Uy yes, let’s do it! Ang fun kasi ng plano mo, and I’ve been wanting to go out na. San tayo punta? I’m free this weekend, so let’s make it a chill day ha kasi excited na ko!",1
+"I'm down for that, let's go and have a good time!",1
+"Haha yes, let’s roll! You’re cool",1
+"Uy cge, sama ako sayo mamaya",1
+"I'm not free this weekend, I'm busy with other things, please stop asking me out, I'm not interested.",1
+"Lol sige, game ako sayo!",1
+"Tangina busy ako, next time na lang",0
+"Lol fuck yeah, let’s eat out! You asshole",1
+"Sige na bobo, san mo gusto pumunta?",1
+"Not really into that, sorry",0
+Lol I’d love to! Pick a place,1
+"Nope, got too much to do",0
+"Yes, I’m excited! Where’s the meetup?",1
+"Uy sige, let’s go na! Ang saya kasi ng plano mo, and I’ve been wanting to hang out na rin. San tayo punta? I’m free this weekend, so let’s make it a chill day ha kasi I’m excited!",1
+"Can’t, I’ve got other stuff to do",0
+"Lol sige, game ako sa plano mo!",1
+"Nah, wag muna ngayon. Super busy kasi ako sa work, tapos may mga lakad pa ko with friends this weekend. Di rin ako feel mag-out kasi gusto ko lang mag-stay home. Next time.",0
+"Nope, I’m not feeling it. Work’s been overwhelming, and I’ve got plans with friends this weekend. I’d rather just chill at home since I’m not in the mood. Let’s try again when I’m free.",0
+"Lol okay, I’m in! Your pick",1
+"Sure, sounds fun!",1
+"Lol totally, I’m down! Your pick",1
+Haha tangina okay sakin! Let’s go out,1
+"No thanks, busy ako eh. May mga deadlines kasi ako sa work, tapos may lakad pa ko with family this week. Di rin ako in the mood kasi gusto ko lang matulog. Pass muna.",0
+"Not today, I’m swamped",0
+Haha di ko feel yun,0
+"Sige, sama ako sa plano mo!",1
+Sweet!,1
+"Heck yeah, I’m there! Where to?",1
+Putangina friends lang tayo diba?,0
+"Can’t make it, sorry dude",0
+"Yes, please, let's go, I'm ready for a fun evening with you, I'm really looking forward to going out!",1
+"Sige, kain tayo sa labas ha",1
+"Haha sige, I’m so down! Ang cute mo mag-ask, kaya excited na ko agad. Tara, kain tayo sa labas or something fun, san mo gusto? I can’t wait na talaga to chill with you ha!",1
+"Pass muna, di ko trip",0
+"Corny mo, pass ako",0
+Anong oras tayo aalis?,1
+"No thanks, busy ako eh. May mga tasks pa ko sa work tapos may family stuff din this weekend. Di rin ako in the mood kasi pagod na ko lately. Pass muna, baka next week na lang pag okay na.",0
+"Sige, game ako sayo!",1
+"No, thank you, I'm not interested, please stop asking me out, I'm not interested.",1
+"Ulol di ko type yan, sorry ha",0
+"Nah, I’m not feeling up for it at the moment. School has been super draining lately, and I’ve got errands to run this weekend too. I’d rather just stay home and rest since I’m not in the best mood. Let’s hold off for now, maybe later.",0
+"Tangina ang busy ko, wag muna uy",0
+"Wag muna, di pwede ngayon. Super busy kasi ako sa school lately, tapos may mga tasks pa ko sa house this week. Di rin ako feel mag-out kasi pagod na ko lately. Next time na lang.",0
+"No thanks, you’re a fucking tool",0
+"Uy ang cute mo mag-ask! Cge, sama ako",1
+"Haha yes, I’m there! What’s up?",1
+"Sure, I’m excited! What’s the deal?",1
+"Pass for now, too much on my plate",0
+"Haha di pwede, next time",0
+"Lol okay, count me in! Where we headed?",1
+Friends lang tayo ha,0
+Let's go and have some fun!,1
+"Sige na nga, let’s try!",1
+Di ko feel yun eh,0
+"Busy ako eh, pass muna",0
+"Leave me alone, I don't want to talk to you anymore.",0
+...,0
+"Can’t make it, next time",0
+"Sige na, kain tayo sa labas mamaya",1
+"Lol uy ulol ka cute! Cge, date tayo",1
+"Ayoko nga, please just leave me alone, I'm not interested in you.",0
+"I'm looking forward to seeing you, let's go out and have fun!",1
+"Pass, I’m not in the mood",0
+"Oo naman, gusto ko sumama, excited na excited na ako sa lakad natin, let's go!",1
+"Haha pass muna, di ko trip",0
+Yiee kinilig ako dun 😩,1
+"Nah, di ko feel mag-date ngayon. I’ve been so tired lately kasi ang dami ko ginagawa sa school, tapos may mga errands pa ako this week. Pass muna ako, baka next time na lang pag hindi na ganito ka-chaotic life ko.",0
+You're making me blush right now!,1
+"Busy ako eh, wag muna",0
+"Sorry, I’ll pass this round",0
+"Putangina kinilig ako! Sige, sama ako",1
+"Haha tangina corny mo, di pwede",0
+Wag na lang.,0
+"Game ako, tara na, excited na ako sa pupuntahan natin!",1
+K lang,0
+"Haha tangina ang saya! Okay, tara na",1
+"Lol heck yes, let’s hang! Your pick",1
+"Tangina pass ako, may gagawin pa ko",0
+"No thanks, I’m chilling solo",0
+"Don't bother me, leave me alone, I'm not interested in you.",0
+"Sure, let’s do it na! I’ve been stuck at home lately, kaya perfect yung invite mo. San tayo pupunta? I’m excited na talaga, ikaw bahala sa plano ha kasi I trust your vibe!",1
+"Pass for now, I’m chilling",0
+"Sige, sama ako sa plano mo!",1
+"Definitely, let’s hang! Where we at?",1
+"Ayoko sayo, wag mo na akong kausapin, please just leave me alone, I'm not interested.",0
+"Haha ang cute mo! Okay, let’s go",1
+"Wag muna, di pwede ngayon. May mga deadlines ako sa work tapos may lakad pa ko with friends. Hindi rin ako feel mag-out kasi gusto ko lang mag-relax sa bahay. Next time na lang siguro.",0
+"Ikaw pa nagtanong, automatic yes na yan",1
+"Uy kinilig ako dun! Cge, sama ako sayo",1
+"Sorry, not my vibe at the moment",0
+"Sus, friends lang tayo diba?",0
+Haha di ko type yan eh,0
+Lol totally down! What’s your plan?,1
+"Lol okay, I’m in! What’s the plan?",1
+"Sure, let’s roll! You’re great",1
+"Cge na, sama ako sayo mamaya",1
+"Lol okay, count me in! You’re fun",1
+I'm not interested in you romantically.,0
+"Great idea, let's definitely do that, I'm excited to go out with you, let's have a great time!",1
+"Sure asshole, where we headed?",1
+"Di ko trip yun, tangina next time na",0
+Let's do it then!,1
+Haha I’d love to! Pick a place,1
+"You're cute ha, baka mahulog ako sayo 😳",1
+"Yes please, I’m in! Where we meeting?",1
+"Haha yes, I’d love to! Your invite is so perfect, and I’ve been stuck inside too long. Where should we head to? I’m pumped to make it a fun day, so let’s plan it soon!",1
+I'm not interested in that kind of thing.,0
+"Pass, I’m not really up for it",0
+Sorry not sorry 🤷‍♀️,0
+"Fuck that, I’m not into it",0
+"Sure, let’s do it! You damn idiot",1
+"Asshole, I’m not interested",0
+G ka ba this weekend? Let's grab coffee ☕,1
+"Sorry ha, di pwede ngayon. Super busy kasi ako sa school lately, tapos may mga tasks pa ko sa house. Di rin ako feel mag-out kasi pagod na pagod na ko. Pass muna ako.",0
+"Di pwede ngayon, sorry. Super busy kasi ako sa work lately, tapos may mga lakad pa ko with friends. Hindi rin ako in the mood kasi gusto ko lang mag-stay home. Next time na lang.",0
+"Busy ako eh, di pwede",0
+"No thanks, busy ako eh. May mga deadlines kasi ako sa work lately, tapos may lakad pa ko with family this weekend. Di rin ako feel mag-out kasi gusto ko lang matulog. Pass muna.",0
+"Pass, I’m not feeling it",0
+Uy game ako! San tayo punta?,1
+"Lol heck yeah, I’m in for sure! I love that you asked me out, and it’s been a while since I’ve done something fun. Where are we going? I’m free this week, so let’s figure it out and make it an awesome day together!",1
+Okay sakin yan! Kain tayo?,1
+Hmm not in the mood rn,0
+"Grabe ka mag-ask! Cge, sama",1
+"Not my vibe, sorry dude",0
+"Nah, I’d rather pass this time",0
+"Let's make this happen, I'm ready to go on that date!",1
+...,0
+"Busy ako, wag muna",0
+"Nah, I’m cool chilling",0
+"Ikaw bahala, basta kasama kita 😌",1
+"Sorry, not feeling it today",0
+"Saan tayo pupunta, excited na excited na ako sa place natin, let's go have a great time!",1
+"Sure thing, let’s go! You’re cool",1
+"Uy putangina kinilig ako! Sige, sama ako sayo",1
+"Nope, too much going on",0
+"Sorry, I don’t think I can make it right now. I’ve got a ton of work piling up this week, and I’ve got some family stuff to handle too. I’m not really in the mood to go out either since I’m pretty tired. Maybe we can try another time when things calm down.",0
+I'm free on Saturday night.,1
+"Haha okay, let’s roll! You damn fool",1
+"Pass for now, sorry. I’ve got too much schoolwork to finish, and some errands to run too. I’m not up for going out since I just want to rest. Maybe we can figure something out later.",0
+I'm not free at the moment.,0
+"Sige, kain tayo sa labas! 😍",1
+"Sige, sama ako sa gala mo!",1
+"Absolutely not, leave me alone, stop with the flirting.",0
+"Yes please, let’s hang! What’s up?",1
+"Heck yes, I’m down! Where’s the spot?",1
+"Sorry, not up for it now",0
+Friends lang tayo ha,0
+"Sige, san mo gusto pumunta?",1
+"Pass for now, got a lot going on",0
+"Lol heck yeah, sama ako! Ang fun mo talaga kasama, kaya hindi ko matanggihan. San mo gusto mag-chill? I can’t wait na talaga, let’s make it a good one ha kasi I like you!",1
+"Wag muna, di pwede ngayon. Super busy kasi ako sa school, tapos may mga tasks pa ko sa house this week. Di rin ako feel mag-out kasi pagod na ko lately. Next time na lang.",0
+"Not today, I’m kinda swamped",0
+"Haha di ako game, pass",0
+"Haha yes, I’d love to join you! Your invite is so cute, and I’ve been dying to do something exciting. Where should we go? I’m totally free this weekend, so let’s make it happen and have a great time together!",1
+"Yes, I'd love to go out with you, I'm really excited, let's plan something fun!",1
+Lol I’m game! What’s your idea?,1
+"Yes, please, let's go, I'm ready for a fun evening with you, let's do it!",1
+"Can’t, I’m tied up today",0
+"Busy ako eh, di pwede",0
+"Sorry, not my style right now",0
+"Sure, let’s grab food! Your choice",1
+"Hell yes, I’m up for it! You dumb fuck",1
+"No way, I’m too busy",0
+"Sorry, not really up for it now",0
+"Sure thing, let’s go! You’re awesome",1
+"Nope, got plans already",0
+"Nah, I think we’re better as friends",0
+...,0
+"I'm ready to go, let's have a fantastic time together, I'm really looking forward to it!",1
+"Uy kinilig ako dun! Cge, let’s go",1
+"Yung totoo, nililigawan mo na ba ako? 😅",1
+"I'm in, let's go, I'm ready to have a great time tonight!",1
+"Haha sige, I’m so down! Ang cute mo mag-ask, kaya excited na ko agad. Tara, kain tayo sa labas or something fun, san mo gusto? Let’s make it happen soon ha!",1
+"Haha joke lang, wag seryoso",0
+...,0
+"Nope, got plans already",0
+"Busy ako, di pwede",0
+Kinilig ako sa sinabi mo! Sige ha,1
+"Anong oras tayo aalis, excited na ako sa outing natin!",1
+"Haha corny mo, pass muna",0
+I'd love to.,1
+"Lol putangina ang kulit! Cge, let’s go",1
+Hindi pwede ngayon.,0
+"Haha sige na nga gago, sama ako sa plano mo",1
+Ewan ko sa'yo.,0
+"Sure na, tara na nga! I’ve been so bored sa bahay, kaya perfect yung invite mo. San mo gusto mag-chill? I’m excited na talaga, let’s make it fun ha kasi I trust your plans!",1
+"Eh di wow, next time na",0
+Hindi ako sasama sa inyo.,0
+"Shit, you’re lame. Pass for now",0
+"Sorry, di ko feel ngayon. May mga tasks pa ko sa work tapos may errands din ako mamaya. Hindi rin ako in the mood kasi gusto ko lang matulog lately. Pass muna, baka next time.",0
+"Haha yes, I’m there! Where to?",1
+"Friends lang kita, uy",0
+"Yes, I’d love to! Where’s the spot?",1
+"Yes, I’d love to go! I’ve been stuck inside, and your idea sounds perfect. Where are we headed? I’m excited to chill with you, so let’s plan it and make it a fun time!",1
+"Next time na lang, busy ako",0
+"Heck yeah, I’m there! Pick a place",1
+"Haha sige, I’m so in! Ang cute mo mag-ask, kaya hindi ko matanggihan. Tara, kain tayo sa labas or something, san mo gusto? I’m excited na talaga to hang with you!",1
+"No, thanks.",0
+"Hell no, you’re a fucking moron",0
+"No way, I’m good solo",0
+"Tara na, sobrang excited na ako sa pupuntahan!",1
+"I'm free this weekend, let's go out and have some fun!",1
+"I don't want to go, please stop asking me out, I'm not interested in you, please stop texting me.",1
+"Sure, when?",1
+Tangina di ko trip yan eh,0
+"No, thank you, I'm not interested, please stop asking me.",0
+"Busy as fuck, maybe next time",0
+"Layuan mo ako, please, I'm not interested in you.",0
+"Nope, not today.",0
+"Lol yes, let’s go! You’re cool",1
+"Uy yes, let’s hang out na! Ang saya ng idea mo, and I’ve been so bored sa bahay. San tayo pupunta? I’m free this weekend, so let’s make it a chill day ha kasi I’m excited na!",1
+"Not feeling it, maybe next time",0
+"Lol grabe ka! Okay, sama ako",1
+"Lol yes, I’m game! What’s up?",1
+"Busy asshole, later maybe",0
+Ayoko.,0
+"No thanks, I’m busy",0
+"Absolutely not, leave me alone, stop with the flirting, I'm not interested in you, please stop bothering me.",1
+"Lol I’m so in, let’s do it! You asking me out is the best thing today, and I’ve been craving some fun. Where do you want to go? I can’t wait to hang out, so let’s plan it and make it a cool day!",1
+"Don't bother me, leave me alone, I'm not interested in you, please stop texting me, I'm not interested in dating you.",1
+"Heck yeah, let’s go! You’re awesome",1
+Friends lang kita ha,0
+"Uy sige, let’s go out na! I’ve been so bored, kaya perfect timing yung message mo. San tayo punta? I’m free this weekend, so let’s make it a chill day ha, ikaw na bahala!",1
+"Gago ka ba, friends lang kita",0
+"No way asshole, we’re just friends",0
+"Heck yeah, I’m in! Where should we go?",1
+"Sige na nga, san tayo puntahan?",1
+"Yes, let’s do it! You’re cool",1
+"Uy cge na, tara na after class!",1
+"Don't bother me, I'm not interested, okay?",0
+"Di ko feel eh, sorry ha",0
+"Sige na nga, date tayo mamaya",1
+"Hell yeah, I’m in! You damn nut",1
+"Corny mo talaga, pass",0
+,0
+Haha uy tanga ka cute! Date tayo?,1
+"Haha cge, sama ako! San punta natin?",1
+"Haha yes, I’m in! Where’s the spot?",1
+"Sorry ha, di pwede ngayon. May mga deadlines ako sa work tapos may errands pa ko this weekend. Hindi rin ako in the mood kasi medyo stressed na ako lately. Pass muna, baka pag medyo okay na sched ko.",0
+"Sure thing, let’s hang! You’re fun",1
+"Yes please, I’m in! Pick a spot",1
+"Grabe ka mag-ask! Okay, tara!",1
+"Sure, why not? You’re a silly bastard",1
+"Sorry ha, di ko feel ngayon. May mga deadlines kasi ako sa work, tapos may family stuff pa ko mamaya. Hindi rin ako in the mood kasi gusto ko lang mag-stay home. Pass muna.",0
+"Kung ikaw kasama, kahit saan pwede 😍",1
+"I'm in, let's go, I'm ready to have fun!",1
+"Sige gago, tara na nga mamaya!",1
+No way.,0
+"Heck yeah, tara na! I’ve been wanting to go out kasi boring na sa bahay. Sige, ikaw bahala sa plano, I’m game for anything with you. Ang cool mo kasi, so let’s make it happen na this weekend!",1
+"Ayoko nga, please just leave me alone already.",0
+"Sure, I’d love to hang out! Ang cute mo mag-ask, and I’ve been so bored na rin. San tayo pupunta? I’m free this week, so let’s make it fun ha kasi I trust your vibe!",1
+Friends lang talaga kita,0
+"Haha totally, I’m down! Where to?",1
+"Lol yes, I’m there! Where to?",1
+"Pass muna, di ako sure",0
+"Damn busy, not today dick",0
+"Lol grabe ka mag-ask! Sure, game ako",1
+"Yes, I'd love to go out with you, I'm really excited!",1
+Lol I’m down! What’s the vibe?,1
+"Sure, let’s roll! You’re the best",1
+"Sige, tara na after class!",1
+"Sounds like a plan, let's set it!",1
+Grabe ka magpa-cute! Sama ako,1
+"Nah, I’m pretty busy right now",0
+"Pass muna, di pwede ngayon. May mga deadlines ako sa school tapos may family stuff pa ko this week. Hindi rin ako in the mood kasi pagod na ko lately. Maybe another time.",0
+"Yes, I’d love that! What’s the plan?",1
+"Uy kinilig ako dun! Cge, go na",1
+Haha okay na sakin! Kain tayo?,1
+"Sure thing, let’s hang! You’re awesome",1
+"Heck yeah, I’m game! Where to?",1
+"I'm in, let's go, I'm ready to have a great time tonight, I'm really excited!",1
+"Layuan mo ako, please, I'm not interested in you romantically, please stop texting.",1
+Haha friends lang kita,0
+"Heck yes, I’m in na in! Ang cute mo mag-ask, kaya hindi ko matanggihan. San tayo punta? I’m free this week, so let’s plan it na para sure. Super excited na ako to chill with you!",1
+"Not today, maybe later",0
+"Okay, fine, let's go, I guess I'll give it a try, but I'm not sure if I'm interested in you.",1
+"Uy ang sweet mo talaga! Cge, go",1
+"Yes, let’s grab some food! Your pick",1
+"Haha cge, san mo gusto pumunta?",1
+"I'm not interested in you, please stop asking me out.",0
+"Haha ikaw talaga, sige na nga 😅",1
+"Lol yes, let’s do it! Your idea sounds like a blast, and I’ve been bored out of my mind. Where should we meet? I can’t wait to chill with you, so let’s plan it and make it fun!",1
+"Haha bobo ka, di ako game",0
+"Lol tara na, kain tayo sa labas!",1
+"Uy ang cute mo! Cge, sama ako",1
+"Sure, I’m game to go out! I love that you asked, and I’ve been craving some fun lately. Where are we going? I’m excited to hang out, so let’s figure it out and make it a great day!",1
+"Uy ang kulit mo! Cge, sama ako",1
+"Baka hindi ako pwede, I'll let you know na lang",0
+Sobrang down ako jan! When tayo?,1
+"Let's hang out, then, I'm free this weekend, let's do something fun!",1
+"Heck yes, I’m up for that! Where we meeting?",1
+"Not today, maybe another time",0
+"Yes, let’s hang out! You’re fun",1
+"Pass muna, di ko trip yan. May mga deadlines ako sa work tapos may family stuff din this week. Hindi rin ako in the mood kasi gusto ko lang mag-relax sa bahay. Maybe later na lang.",0
+Nope.,0
+"Gago di pwede, tangina busy ako",0
+"Di ko trip yan, sorry ha. Super hectic kasi sched ko ngayon with school and all, tapos may mga bagay pa ko na kailangan gawin sa house. Pass muna, baka hindi rin ako makapag-enjoy.",0
+"Chz, corny mo naman. Pass muna",0
+"Lol heck yeah, I’m down! Ang saya mo kasama, kaya hindi ko matanggihan. San mo gusto mag-hang out? I can’t wait na, let’s plan it na para sure ha!",1
+"Can’t, got other things lined up",0
+"I'm really looking forward to it, let's make it happen, I'm excited!",1
+"Nah, I’ll pass this time. Work’s been taking up all my time, and I’ve got errands this weekend. I’m not feeling up for going out since I just want to relax. Let’s try later when I’m free.",0
+Kaya mo yan mag-isa 😌,0
+"Di ko feel yun, ulol ka ba?",0
+"Chz, corny mo talaga ha",0
+"Pass muna, di ko feel",0
+"I'm really looking forward to it, let's make it happen!",1
+"Yes, tara na nga! I’ve been so bored lately, kaya perfect timing yung invite mo. Sama ako sayo, san mo gusto mag-hang out? I’m excited na talaga, let’s make it a good one ha!",1
+"Di pwede ngayon, next time",0
+"Damn, I’m down! You’re such a goofy asshole",1
+"Lol sige, let’s go out mamaya!",1
+"No thanks, I think we’re just friends",0
+"Sige, game ako sa date natin!",1
+"No thanks, I’ll pass",0
+"Get lost, I'm not interested.",0
+"Nope, I’m good with just chilling solo",0
+"Haha, you're funny!",1
+"Di pwede ngayon, sorry",0
+"Ayoko sayo, wag mo na akong kulitin.",0
+Maybe later.,0
+"Sige na bobo, let’s go out mamaya!",1
+"I'm not available right now, I'm very busy.",0
+"Not really my thing, maybe next time",0
+"Haha di ako game, next time",0
+Friends lang tayo diba?,0
+,0
+"Yes, I’m so down to hang out! Your message totally made my day, and I’ve been wanting to get out of the house anyway. Where should we head to? I can’t wait to chill with you, so let’s make it a good time this weekend!",1
+"No thanks, I’m too busy at the moment. I’ve got deadlines at work, and some family stuff to handle this week too. I’m not up for going out since I just want to unwind alone. Let’s try later when I’m not so stretched.",0
+"Yes, let’s go for it! I’ve been so bored lately, and hanging out with you sounds awesome. Where should we meet up? I’m excited to make it a fun day, so let’s plan it out soon!",1
+"Uy sige, san mo gusto pumunta?",1
+I'm busy.,0
+Hala ang sweet mo! Tara na,1
+I'm not available this week.,0
+"Sorry, hindi pwede ngayon. May mga deadlines ako sa work tapos may family dinner pa kami mamaya. Di ko rin feel mag-out kasi pagod na pagod ako lately. Next time na lang siguro, pag medyo free na ako.",0
+"Sorry, I’ll skip this one",0
+"Not my vibe, sorry",0
+"No thanks, I’m too busy right now. I’ve got work piling up, and some family stuff this week too. I’m not in the mood to go out since I’m pretty drained. Let’s wait for another time.",0
+"Haha yes, I’m so game! Ang fun ng idea mo, kaya excited na ko agad. Tara, kain tayo sa labas or something, san mo gusto? I can’t wait na talaga to chill with you ha!",1
+"Grabe ka talaga! Okay, tara na",1
+...,0
+"Shit, pass me by",0
+"Definitely, let’s go out! I’ve been so bored lately, and your idea sounds like a blast. Where do you want to meet up? I’m excited already, so let’s plan it out and make sure it’s a chill, fun vibe!",1
+"I'm not interested, please stop asking me out.",0
+"Sige, tara na after work uy!",1
+"Don't bother me, leave me alone, I'm not interested in you, please stop texting.",0
+"Nah, I’d rather not right now",0
+Di ko trip yun eh,0
+"Can’t make it, sorry dude",0
+"Lol sige na nga, tara na!",1
